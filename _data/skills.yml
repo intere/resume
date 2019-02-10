@@ -1,12 +1,15 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Technical leadership
+- skill: Technical Leadership
+  description:  As an experienced technical professional, I lead by example.  Documentation, mentoring, paired programming, diagramming, mentoring, presenting are some of the methods I use to lead teams to become more efficient and achieve our goals.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Programming Languages / Frameworks
+- skill: Programming Skills
+  description: I have learned a number of programming languages, frameworks and concepts over the years.  Here is a list of some of my more recent Programming languages&colon; Swift, Objective-C, Ruby, Javascript, Java.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Continuous Integration / Automation
+  description: I am a big proponent of continuous integration and continuous deployments and automation.  I have personally setup, configured and managed build pipelines for a variety of software stacks.  I'm a fan of automating repetitive tasks and getting fast feedback on new code.  I've used Jenkins, Fastlane, XCTest, RSpec, JUnit and a number of other tools to provide a picture of software health.
+
+# # Digital content development and creation
+# - skill: Digital content development and creation
+#   description: Copy writing, graphic design, web design, front-end web development, print design

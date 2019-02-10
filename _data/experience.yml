@@ -1,19 +1,49 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Adventure Projects
+- company: Adventure Projects (REI)
+  position: Senior iOS Developer
+  duration: July 2018 &mdash; Present
+  summary: As part of the Product Team at Adventure Projects, I participate in building / maintaining the feature roadmap for the Mobile Applications.  I am directly respoonsible for development, deployment and maintenance of the iOS Mobile Applications&colon;<ul><li>Hiking Project</li><li>Mountain Project</li><li>MTB Prooject</li><li>National Parks</li><li>Powder Project</li><li>Trail Run Project</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Washington Post
+- company: The Washington Post
+  position: Senior iOS Developer
+  duration:  February 2016 &mdash; June 2018
+  summary: Senior iOS Developer for the Washington Post. Developed, maintained and lead numerous internal iOS applications (Live App, Classic App, DC Rider). Developed, maintained and lead numerous white label (Arc business) iOS applications&colon; <ul><li>The Globe and Mail</li><li>Salt Lake Tribune</li><li>The LA Times</li></ul>  Lead a rewrite effort of DC Rider, an iOS DC Metro Train transportation app.  Focus on automation to do more with less (automatic library integration, new partner app generation, pull request creation, etc) and delivering internal / external APIs.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Mobile Day
+- company: Mobile Day
+  position: Senior Software Engineer
+  duration: August 2015 &mdash; February 2016
+  summary: Sr. iOS Developer at MobileDay. As part of a team of 4 developers, I heavily contributed to a complete UI Refresh and code conversion from Objective-C to Swift.  Researched, pitched and spearheaded the adoption of numerous modern tool proposals; for example&colon; IBDesignable Controls, Fastlane as well as various other productivity tools.<br /><br/>  Successfully overhauled the build process, using Fastlane to automate building, testing and deploying test builds and production builds to HockeyApp, TestFlight and iTunes (prior to TestFlight being owned by Apple).
+
+- company: SportsLabs
+  position: Senior Software Engineer
+  duration: April 2013 &mdash; August 2015
+  summary: As a Senior Software Engineer, I've personally been involved in half a dozen product launches (inception, design, development, launch and maintenance). Member of the Platform Services Team (most recent) and before that, a member of the Official Athletic Site Team (prior 2 years). In additional to my development and dev-ops tasks, I am also involved in team and peer mentoring (reviews, paired programming, etc), driving architecture and design, defining development best practices, managing (including integration of) code bases, build infrastructure, integration and deployment (including release deployment) of productions. <br /><br /> SportsLabs is building the next generation of sports. We work with top brands and content rights holders in college and pro sports to create real digital businesses by using our proprietary Advanced Media Platform (AMP for Sports v3.0) to serve fans on all devices.
+
+- company: VMWare
+  position: Senior Consultant
+  duration: April 2012 &mdash; April 2013
+  summary: IT Consultantancy that specializes in Java and Spring Framework to solve the needs of our clients in cloud-scale environments.
+
+- company: McKesson
+  position: Senior Software Engineer
+  duration: October 2010 &mdash; April 2012
+  summary: Worked on a small team building electronic prescription writing software applying scrum methodologies.  Worked as an independant contributor as well as scrum master.  Technologies used&colon; Java, GWT, JAXB, JMS, Hibernate, Spring.
+
+- company: Raytheon
+  position: Senior Software Engineer
+  duration: March 2008 &mdash; October 2010
+  summary: Development and Integration of Web Services, JMS queues/topics and Eclipse RCP Based GUIs.  Solaris 10 Administration, Red Hat Administration.
+
+- company: BAE Systems
+  position: Software Engineer
+  duration: April 2005 &mdash; March 2008
+  summary: Implemented Web Based and Desktop Based Java Mapping software (using WMS protocol).
+
+- company: EIT Security
+  position: Software / Network Engineer
+  duration: June 2003 &mdash; April 2005
+  summary: Built, deployed and managed Redhat based IDS, Firewalls, NMS solutions for various customers.

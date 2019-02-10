@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
+# GeoTrackKit
+- project: <img src="https://github.com/intere/GeoTrackKit/blob/develop/GeoTrackKitExample/GeoTrackKitExample/Assets.xcassets/AppIcon.appiconset/icon_20pt@2x.png?raw=true" height="20"> GeoTrackKit
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  duration: 2016 &mdash; Present
+  url: "https://github.com/intere/GeoTrackKit"
+  description: GeoTrackKit is an open source (swift-based) iOS framework that is used to&colon;<ul><li>Track user loocation</li><li>Split a track into ascents / descents</li><li>Plot a track on a map</li><li>Compute track statistics</li><li>and more</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# UITestKit
+- project: <img src="https://github.com/intere/UITestKit/raw/master/Example/UITestKit/Media.xcassets/AppLogo.imageset/AppLogo.png?raw=true" height="20"> UITestKit
+  role: Founder & Primary Developer
+  duration: 2017 &mdash; Present
+  url: "https://github.com/intere/UITestKit"
+  description: Programmatic UI Tests (not using the Apple's UI Test Framework).  XCTest-based automated UI Testing framework.
+
+# Scroggle
+- project: <img src="https://github.com/intere/scroggle/blob/develop/Scroggle/Resources/Assets.xcassets/AppIcon.appiconset/icon_20pt@2x.png?raw=true" height="20"> Scroggle
+  role: Founder & Primary Developer
+  duration: 2015 &mdash; Present
+  url: "https://itunes.apple.com/us/app/scroggle/id994899163#?platform=iphone"
+  description: A dice-based word game that I've built for fun and open sourced.  See the <a href="https://github.com/intere/scroggle">Source Code</a>
